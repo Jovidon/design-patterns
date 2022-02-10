@@ -1,5 +1,5 @@
 /**
- *  Implementation of abstract-factory design pattern in TypeScript
+ *  Implementation of abstract-factory design pattern in TypeScript.
  */
 
 interface IButton {}
@@ -58,9 +58,9 @@ class UI {
 }
 
 enum OS {
-    WINDOWS = "Windows",
-    MAC = "Mac",
-    UNIX = "Unix",
+    WINDOWS = "Windows OS",
+    MAC = "Mac OS",
+    UNIX = "Unix OS",
 }
 
 function getUI(currentOS): UI {
