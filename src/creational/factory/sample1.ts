@@ -1,3 +1,7 @@
+/**
+ *  Implementation of factory method design pattern in TypeScript
+ */
+
 interface ITransport {
     deliver(): void;
 }
