@@ -1,5 +1,9 @@
 /**
- *  Implementation of abstract-factory design pattern in TypeScript.
+ *   Implementation of abstract-factory design pattern in typescript.
+ *
+ *   Abstract Factory is a creational design pattern that lets you
+ *   produce families of related objects without specifying their
+ *   concrete classes.
  */
 
 interface IButton {}
