@@ -1,9 +1,10 @@
 /**
- *   Implementation of Build design pattern in typescript.
+ *   Implementation of Builder design pattern in typescript.
  *
  *   Builder is a creational design pattern that lets you construct
  *   complex objects step by step.
  */
+
 enum Gender {
    MALE = 'M',
    FEMALE = 'F'
@@ -58,4 +59,6 @@ const user = new UserBuilder()
             .buildGender(Gender.MALE)
             .buildId('1')
             .build();
+
+
 
