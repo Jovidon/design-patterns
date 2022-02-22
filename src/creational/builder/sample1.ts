@@ -4,7 +4,7 @@
  *   Builder is a creational design pattern that lets you construct
  *   complex objects step by step.
  *   
- *   Note, implemented without Director class.
+ *   Note, Builder pattern has been implemented without Director class.
  */
 
 enum Gender {
