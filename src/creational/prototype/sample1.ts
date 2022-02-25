@@ -27,7 +27,7 @@ class Doctor extends Human {
         this.direction = 'Healthcare';
     }
 
-    clone(): Human {
+    clone(): Doctor {
         return new Doctor(this);
     }
 }
