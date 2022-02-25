@@ -34,7 +34,7 @@ class Doctor extends Human {
 
 const doctor = new Doctor();
 doctor.name = 'Ali';
-doctor.job = 'Health specialist';
+doctor.job = 'Healthcare specialist';
 doctor.address = 'Samarkand';
 
 const newDoctor = doctor.clone();
