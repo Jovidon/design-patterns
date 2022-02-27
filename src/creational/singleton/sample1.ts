@@ -24,3 +24,6 @@ class FileService {
 
 const fileService = FileService.getFileService();
 fileService.readFileByUrl('MyFile');
+
+const fileService2 = FileService.getFileService();
+console.log(fileService === fileService2); // True, because both constants are the same instance.
