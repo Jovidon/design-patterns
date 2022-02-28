@@ -1,7 +1,6 @@
 # Design-patterns
 
-Samples for design patterns
-<h3>Feel free to contribute.</h3>
+Samples for design patterns.
 <br>
 <h2> Creational </h2>
 <br>
