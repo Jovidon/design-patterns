@@ -2,7 +2,7 @@
 
 Samples for design patterns.
 <br>
-<h2> Creational </h2>
+<h2> Creational design patterns: </h2>
 <br>
 <ol> 
   <li><a href="https://github.com/Jovidon/design-patterns/blob/main/src/creational/factory/sample1.ts" >Factory Pattern  </a></li>
@@ -12,12 +12,12 @@ Samples for design patterns.
   <li><a href="https://github.com/Jovidon/design-patterns/blob/main/src/creational/prototype/sample1.ts" >Prototype Pattern </a></li>
 </ol>
 <br>
-<h2> Structural  </h2>
+<h2> Structural design patterns </h2>
 <br>
 <ol> 
 </ol>
 <br>
-<h2> Behavioral </h2>
+<h2> Behavioral design patterns</h2>
 <br>
 <ol>
 </ol>
