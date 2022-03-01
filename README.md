@@ -9,10 +9,10 @@ Samples for design patterns.
   <li><a href="https://github.com/Jovidon/design-patterns/blob/main/src/creational/abstract-factory/sample1.ts" >Abstract factory Pattern  </a></li>
   <li><a href="https://github.com/Jovidon/design-patterns/blob/main/src/creational/singleton/sample1.ts" >Singleton Pattern  </a></li>
   <li><a href="https://github.com/Jovidon/design-patterns/blob/main/src/creational/builder/sample1.ts" >Builder Pattern  </a></li>
-  <li><a href="https://github.com/Jovidon/design-patterns/blob/main/src/creational/prototype/sample1.ts" >Prototype Pattern </a></li>
+  <li><a href="https://github.com/Jovidon/design-patterns/blob/main/src/creational/prototype/sample1.ts" >Prototype Pattern (clone) </a></li>
 </ol>
 <br>
-<h2> Structural design patterns </h2>
+<h2> Structural design patterns</h2>
 <br>
 <ol> 
 </ol>
