@@ -81,8 +81,8 @@ class TV implements MediaDevice {
 }
 
 class Radio implements MediaDevice {
-    private _volume: number = 102.5;
-    private _channel: number = 8;
+    private _volume: number = 8;
+    private _channel: number = 102.5;
     private _enabled: boolean = false;
 
     enable() {
