@@ -16,6 +16,7 @@ Samples for design patterns.
 <br>
 <ol> 
   <li><a href="https://github.com/Jovidon/design-patterns/blob/main/src/structural/bridge/sample1.ts" >Bridge Pattern  </a></li>
+  <li><a href="https://github.com/Jovidon/design-patterns/blob/main/src/structural/decorator/sample1.ts" >Decorator Pattern  </a></li>
 </ol>
 <br>
 <h2> Behavioral design patterns</h2>
